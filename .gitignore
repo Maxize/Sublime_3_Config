@@ -87,3 +87,15 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+changelog.txt
+*.exe
+*.dmp
+*.dll
+python3.3.zip
+sublime.py
+sublime_plugin.py
+unins000.*
+
+Data/Cache/*
+Data/Backup/*
