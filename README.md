@@ -1,2 +1,2 @@
-# Sublime_3_Config
-This is my sublime config repository
+# Sublime_Text_3_Config
+This is my sublime text config repository
