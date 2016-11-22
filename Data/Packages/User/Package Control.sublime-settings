@@ -1,0 +1,33 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"All Autocomplete",
+		"Autocomplete Javascript with Method Signature",
+		"BracketHighlighter",
+		"ConvertToUTF8",
+		"CTags",
+		"DocBlockr",
+		"Git",
+		"GitHub Flavored Markdown Preview",
+		"GitHub Markdown Snippets",
+		"HTML-CSS-JS Prettify",
+		"JsFormat",
+		"Markdown Preview",
+		"MarkdownHighlighting",
+		"Modific",
+		"Package Control",
+		"Pretty JSON",
+		"QuickXDev",
+		"SideBarEnhancements",
+		"Strapdown Markdown Preview",
+		"SublimeCodeIntel",
+		"SublimeLinter-lua",
+		"SublimeLinter-luacheck",
+		"TortoiseSVN"
+	]
+}

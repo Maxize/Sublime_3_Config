@@ -1,0 +1,4 @@
+[
+    { "keys": ["f2"], "command": "run_win32_player"},
+    { "keys": ["f3"], "command": "run_win32_editor"},
+]
