@@ -1,7 +1,9 @@
 {
-	"font_size": 13,
+	"font_size": 12,
+	"highlight_line": true,
 	"ignored_packages":
 	[
 	],
-	"translate_tabs_to_spaces": false
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
 }
